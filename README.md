@@ -27,10 +27,6 @@ This commands includes
 <BR>
 
 ## Output
-```
-Developed by : RIYA P L
-Register no  : 212223240141
-```
 ### ping
 ![Screenshot 2024-10-28 140413](https://github.com/user-attachments/assets/9c727469-0734-40f5-afe1-1468b52a71a1)
 
